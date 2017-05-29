@@ -1,5 +1,5 @@
 {
-  "name": "backbone-relational",
+  "name": "backbone-relational-fxd-autofetch",
   "main": "backbone-relational.js",
   "dependencies": {
     "underscore": ">=1.7.0",
